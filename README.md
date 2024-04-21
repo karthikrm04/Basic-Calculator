@@ -1,1 +1,2 @@
 # Basic-Calculator
+This is a Basic Calculator which is designed and coded usung html css ang javaScript using visual studio code it has basic functionality like Addition,Substraction,Multiplication and Division bs.html indicates HTML file and bs.css represents css file and bs.js represents Javascript file , it is basic calculator which takes input from mouse and gives an output through output device. 
